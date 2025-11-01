@@ -20,7 +20,11 @@
     --primary: 217 91% 60%;
     --primary-foreground: 0 0% 100%;
     --primary-glow: 217 91% 70%;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
     --secondary: 214 32% 97%;
     --secondary-foreground: 222 47% 11%;
 
@@ -50,7 +54,11 @@
     --gradient-secondary: linear-gradient(180deg, hsl(214 32% 97%) 0%, hsl(210 40% 96%) 100%);
     --gradient-hero: linear-gradient(135deg, hsl(217 91% 60% / 0.95) 0%, hsl(230 80% 50% / 0.95) 100%);
     --gradient-card: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(214 32% 98%) 100%);
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
     /* Shadows */
     --shadow-sm: 0 1px 2px 0 hsl(222 47% 11% / 0.03);
     --shadow-md: 0 4px 6px -1px hsl(222 47% 11% / 0.06), 0 2px 4px -2px hsl(222 47% 11% / 0.03);
@@ -59,7 +67,11 @@
     --shadow-2xl: 0 25px 50px -12px hsl(222 47% 11% / 0.15);
     --shadow-elegant: 0 10px 30px -10px hsl(217 91% 60% / 0.3);
     --shadow-glow: 0 0 40px hsl(217 91% 70% / 0.4);
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
     /* Transitions */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-bounce: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
@@ -106,12 +118,20 @@
     --border: 217 33% 22%;
     --input: 217 33% 22%;
     --ring: 217 91% 60%;
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
     /* Dark Mode Gradients */
     --gradient-primary: linear-gradient(135deg, hsl(217 91% 60%) 0%, hsl(217 91% 70%) 100%);
     --gradient-hero: linear-gradient(135deg, hsl(217 91% 50% / 0.9) 0%, hsl(230 80% 40% / 0.9) 100%);
     --gradient-card: linear-gradient(180deg, hsl(222 47% 15%) 0%, hsl(222 47% 18%) 100%);
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
     /* Dark Mode Shadows */
     --shadow-elegant: 0 10px 30px -10px hsl(217 91% 60% / 0.5);
     --shadow-glow: 0 0 40px hsl(217 91% 70% / 0.3);
@@ -146,6 +166,7 @@
   .bg-gradient-primary {
     background: var(--gradient-primary);
   }
+<<<<<<< HEAD
   
   .bg-gradient-hero {
     background: var(--gradient-hero);
@@ -155,20 +176,43 @@
     background: var(--gradient-card);
   }
   
+=======
+
+  .bg-gradient-hero {
+    background: var(--gradient-hero);
+  }
+
+  .bg-gradient-card {
+    background: var(--gradient-card);
+  }
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
   /* Shadow utilities */
   .shadow-elegant {
     box-shadow: var(--shadow-elegant);
   }
+<<<<<<< HEAD
   
   .shadow-glow {
     box-shadow: var(--shadow-glow);
   }
   
+=======
+
+  .shadow-glow {
+    box-shadow: var(--shadow-glow);
+  }
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
   /* Transition utilities */
   .transition-smooth {
     transition: var(--transition-smooth);
   }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
   .transition-bounce {
     transition: var(--transition-bounce);
   }
@@ -179,7 +223,11 @@
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
   }
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
   .glass-card {
     background: hsl(var(--card) / 0.6);
     backdrop-filter: blur(16px);
@@ -221,3 +269,7 @@
   );
   background-size: 1000px 100%;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b6546c8853536bf9a302387912f4c6b6d646303b
